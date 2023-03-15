@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://male-power.github.io/Eretron-Aktiv/sitemap.xml
